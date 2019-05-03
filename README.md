@@ -3,6 +3,7 @@ In this project you will be using the concepts learned in the Git for Web Develo
 
 
 This is a sentence!
+Hello - I am still here!
 
 This project consists of two parts:
 
